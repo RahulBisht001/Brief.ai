@@ -1,4 +1,5 @@
-# **Brief.ai**
+# Brief.ai
+
 ### **[ AI Text Summarizer ]**
 
 Building an AI text summarizer with the help of 
